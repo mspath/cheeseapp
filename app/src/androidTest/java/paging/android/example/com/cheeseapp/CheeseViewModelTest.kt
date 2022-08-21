@@ -54,9 +54,6 @@ class CheeseViewModelTest {
             }
         }
 
-        // Wait for initial load to finish.
-        advanceUntilIdle()
-
         assertThat(differ.snapshot()).containsExactly(
             CheeseListItem.Separator('A'),
             CheeseListItem.Item(cheeses[0]),
