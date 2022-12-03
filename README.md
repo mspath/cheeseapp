@@ -15,14 +15,19 @@ caveats: unnecessary complication by adding separators in the Adapter. also requ
 
 displays a single screen with a list of text items representing cheeses. Items can be added to the list with the input at the top, and swiping items in the list removes them.
 
-----
+---
 
 Environment
 
-- Kotlin 1.7.10
+- Kotlin 1.7.20
 - Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.0
+- Gradle Plugin 7.3.1
 
-----
+---
 
-updated: 2022-10-01
+```
+language: kotlin
+repo: cheeseapp
+status: archived
+updated: 2022-12-03
+```
