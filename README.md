@@ -19,9 +19,9 @@ displays a single screen with a list of text items representing cheeses. Items c
 
 Environment
 
-- Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.1
+- Kotlin 1.8.0
+- Android Studio Electric Eel 2022.1.1
+- Gradle Plugin 7.4.2
 
 ---
 
@@ -29,5 +29,5 @@ Environment
 language: kotlin
 repo: cheeseapp
 status: archived
-updated: 2022-12-03
+updated: 2023-03-21
 ```
